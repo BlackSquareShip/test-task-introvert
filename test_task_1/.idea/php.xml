@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <PhpCSFixerConfiguration tool_path="$PROJECT_DIR$/intr-sdk-test/vendor/bin/php-cs-fixer" />
+    </phpcsfixer_settings>
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration beautifier_path="$PROJECT_DIR$/intr-sdk-test/vendor/bin/phpcbf" tool_path="$PROJECT_DIR$/intr-sdk-test/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/composer" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/satooshi/php-coveralls" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/guzzle/guzzle" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/intr-sdk-test/vendor/symfony/stopwatch" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/intr-sdk-test/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
